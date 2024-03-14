@@ -23,7 +23,8 @@ Each directory in this repository corresponds to a specific course, containing r
 - `Python Projectt`
 - `Data Analysis with Pyton`
 - `Data Visualization with Python`
-- `Machine Learning with Python` 
+- `Machine Learning with Python`
+- `Applied-Data-Science-Capstone-IBM`
 
 ## How to Use
 
