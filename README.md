@@ -17,9 +17,13 @@ Each directory in this repository corresponds to a specific course, containing r
 
 ## Repository Structure
 
-- `Course1_Fundamentals_of_Data_Science`: Resources and projects from Course 1.
-- `Course2_Tools_and_Libraries_for_Data_Science`: Resources and projects from Course 2.
-- `...` (continue as necessary)
+- `ToolsForDataScience`
+- `DataScienceMethodology`
+- `Python for Data Science, AI & Development`
+- `Python Projectt`
+- `Data Analysis with Pyton`
+- `Data Visualization with Python`
+- `Machine Learning with Python` 
 
 ## How to Use
 
